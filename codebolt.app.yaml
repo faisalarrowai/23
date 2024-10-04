@@ -4,7 +4,7 @@ appUniqueId: faisalarrowai/peaceful-salmon
 description: This app will create slides presentation for you.
 appVersion: 1.0.0
 appRepoUrl: https://github.com/faisalarrowai/23.git
-appIconUrl: you-app-icon-url
+appIconUrl: https://picsum.photos/200/300
 appAuthorUserId: faisalarrowai
 forkedFrom: codeboltadmin/baseslidesapp
 install: 
